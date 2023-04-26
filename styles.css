@@ -1,0 +1,56 @@
+*{
+  color: rgba(255, 255, 255, 0.87);
+}
+
+body{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(32,94,7,1) 84%, rgba(4,66,28,1) 100%);
+}
+
+#image{
+    display:block;
+    max-width: 100%;
+    width: 800px;
+    margin: 10px auto;
+    border-radius: 10px;
+  }
+
+strong{
+  font-weight: 700px;
+}
+
+#title{
+    text-align: center;
+    font-size: 50px;
+  }
+
+p{
+    text-align: center;
+    font-size: 25px;
+}
+
+#img-caption{
+    text-align: center;
+    font-size: 20px;
+  }
+
+#tribute-info , #footer{
+  text-align: center;
+}
+
+li{
+  margin: 20px;
+  font-size: 17px;
+}
+strong{
+  font-size: 20px;
+}
+
+.contenedor-video{
+  text-align: center; 
+}
+
+#video{
+  width: 560px;
+  height: 315px;
+}
